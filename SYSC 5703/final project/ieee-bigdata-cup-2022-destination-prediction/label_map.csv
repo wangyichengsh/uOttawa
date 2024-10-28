@@ -1,0 +1,175 @@
+﻿City,Type,Code,Description,map_label
+Tokyo,Occupation,1,Argriculture Forestry and Fishery,7
+Tokyo,Occupation,2,Laborer,8
+Tokyo,Occupation,3,Sales,4
+Tokyo,Occupation,4,Services,5
+Tokyo,Occupation,5,Transport,9
+Tokyo,Occupation,6,Security Inspectors,6
+Tokyo,Occupation,7,Clerical Assistants,3
+Tokyo,Occupation,8,Technicians and Professionals,2
+Tokyo,Occupation,9,Managers,1
+Tokyo,Occupation,10,Other Occupation,12
+Tokyo,Occupation,11,Preschoolers Elementary and Middle School Students,13
+Tokyo,Occupation,12,High School Students,14
+Tokyo,Occupation,13,Undergraduates and above,14
+Tokyo,Occupation,14,Homemakers,15
+Tokyo,Occupation,15,Inoccupation,16
+Tokyo,Occupation,16,Others,21
+Tokyo,Occupation,99,Unknown ,99
+Tokyo,Trip Type,1,To Work,1
+Tokyo,Trip Type,2,To School,2
+Tokyo,Trip Type,3,To Home,3
+Tokyo,Trip Type,4,To Shopping,4
+Tokyo,Trip Type,5,To Eat/Social/Entertainment,5
+Tokyo,Trip Type,6,To Travel/Leisure,46
+Tokyo,Trip Type,7,To Hospital,6
+Tokyo,Trip Type,8,Other Private Purpose,6
+Tokyo,Trip Type,9,Pick up,6
+Tokyo,Trip Type,10,For Sales/Delivery/Restock/Purchase,7
+Tokyo,Trip Type,11,For Meeting/Withdraw/Doctor's Visit,8
+Tokyo,Trip Type,12,Repair,9
+Tokyo,Trip Type,13,Farm Chores,10
+Tokyo,Trip Type,14,Other Business Purpose,11
+Tokyo,Trip Type,99,Unknown ,99
+Chukyo,Occupation,1,Managers,1
+Chukyo,Occupation,2,Technicians and Professionals,2
+Chukyo,Occupation,3,Clerical Assistants,3
+Chukyo,Occupation,4,Sales,4
+Chukyo,Occupation,5,Services,5
+Chukyo,Occupation,6,Security Inspectors,6
+Chukyo,Occupation,7,Argriculture Forestry and Fishery,7
+Chukyo,Occupation,8,Laborer,8
+Chukyo,Occupation,9,Transport,9
+Chukyo,Occupation,10,Architecture and Mining Workers,10
+Chukyo,Occupation,11,Porter Cleaner and Packer,11
+Chukyo,Occupation,12,Other Occupation,12
+Chukyo,Occupation,13,Preschoolers Elementary and Middle School Students,13
+Chukyo,Occupation,14,High School Students and above,14
+Chukyo,Occupation,15,Homemakers,15
+Chukyo,Occupation,16,Inoccupation,16
+Chukyo,Occupation,99,Unknown ,99
+Chukyo,Trip Type,1,To Home,1
+Chukyo,Trip Type,2,To School,2
+Chukyo,Trip Type,3,To Home,3
+Chukyo,Trip Type,4,Back to Work/School,12
+Chukyo,Trip Type,5,Daily Shopping/Chores,4
+Chukyo,Trip Type,6,Extraordinary Shopping,4
+Chukyo,Trip Type,7,To Hospital,6
+Chukyo,Trip Type,8,To Cram/Private School,2
+Chukyo,Trip Type,9,To Eat,5
+Chukyo,Trip Type,10,Social,5
+Chukyo,Trip Type,11,Entertainment,5
+Chukyo,Trip Type,12,Go for Stroll,46
+Chukyo,Trip Type,13,To Travel/Leisure,46
+Chukyo,Trip Type,14,For Volunteer Activity,1
+Chukyo,Trip Type,15,Pick up,6
+Chukyo,Trip Type,16,Other Private Purpose,6
+Chukyo,Trip Type,17,For Meeting/Withdraw/Doctor's Visit,8
+Chukyo,Trip Type,18,For Sales/Delivery/Restock/Purchase,7
+Chukyo,Trip Type,19,Repair,9
+Chukyo,Trip Type,20,Farm Chores,10
+Chukyo,Trip Type,21,Other Business Purpose,11
+Chukyo,Trip Type,99,Unknown ,99
+Kyushu,Occupation,1,Technicians and Professionals,2
+Kyushu,Occupation,2,Managers,1
+Kyushu,Occupation,3,Clerical Assistants,3
+Kyushu,Occupation,4,Sales,4
+Kyushu,Occupation,5,Services,5
+Kyushu,Occupation,6,Security Inspectors,6
+Kyushu,Occupation,7,Argriculture Forestry and Fishery,7
+Kyushu,Occupation,8,Transport,9
+Kyushu,Occupation,9,Laborer,8
+Kyushu,Occupation,10,Other Occupation,12
+Kyushu,Occupation,11,Preschoolers Elementary and Middle School Students,13
+Kyushu,Occupation,12,High School Students and above,14
+Kyushu,Occupation,13,Homemakers,15
+Kyushu,Occupation,14,Inoccupation,16
+Kyushu,Trip Type,1,To Work,1
+Kyushu,Trip Type,2,To Work(Part-time),1
+Kyushu,Trip Type,3,To School,2
+Kyushu,Trip Type,4,For Sales/Delivery/Restock/Purchase,7
+Kyushu,Trip Type,5,For Meeting/Withdraw/Doctor's Visit,8
+Kyushu,Trip Type,6,Repair,9
+Kyushu,Trip Type,7,Back to Work,12
+Kyushu,Trip Type,8,Back to Work(Part-time),12
+Kyushu,Trip Type,9,Other Business Purpose,11
+Kyushu,Trip Type,10,Farm Chores,10
+Kyushu,Trip Type,11,Back to Farm Chores,10
+Kyushu,Trip Type,12,To Shopping,4
+Kyushu,Trip Type,13,Social,5
+Kyushu,Trip Type,14,Back to School,12
+Kyushu,Trip Type,15,To Hospital,6
+Kyushu,Trip Type,16,Pick up,6
+Kyushu,Trip Type,17,To Cram/Private School,2
+Kyushu,Trip Type,18,Other Private Purpose,6
+Kyushu,Trip Type,19,To Home (from Work),3
+Kyushu,Trip Type,20,To Home (from Part-time Work),3
+Kyushu,Trip Type,21,To Home (from School),3
+Kyushu,Trip Type,22,To Home (from Others),3
+Higashisuruga,Occupation,1,Argriculture Forestry and Fishery,7
+Higashisuruga,Occupation,2,Laborer,8
+Higashisuruga,Occupation,3,Sales,4
+Higashisuruga,Occupation,4,Transport,9
+Higashisuruga,Occupation,5,Services,5
+Higashisuruga,Occupation,6,Security Inspectors,6
+Higashisuruga,Occupation,7,Clerical Assistants,3
+Higashisuruga,Occupation,8,Technicians and Professionals,2
+Higashisuruga,Occupation,9,Managers,1
+Higashisuruga,Occupation,10,Other Occupation,12
+Higashisuruga,Occupation,11,Preschoolers ,13
+Higashisuruga,Occupation,12,Elementary and Middle School Students,13
+Higashisuruga,Occupation,13,High School Students,14
+Higashisuruga,Occupation,14,Undergraduates and above,14
+Higashisuruga,Occupation,15,Homemakers,15
+Higashisuruga,Occupation,16,Inoccupation,16
+Higashisuruga,Occupation,17,Others,21
+Higashisuruga,Occupation,99,Unknown ,99
+Higashisuruga,Trip Type,1,To Work,1
+Higashisuruga,Trip Type,2,To School,2
+Higashisuruga,Trip Type,3,To Home,3
+Higashisuruga,Trip Type,4,Daily Shopping/Chores,4
+Higashisuruga,Trip Type,5,Extraordinary Shopping,4
+Higashisuruga,Trip Type,6,To Eat/Social/Entertainment,5
+Higashisuruga,Trip Type,7,Pick up,6
+Higashisuruga,Trip Type,8,To Hospital,6
+Higashisuruga,Trip Type,9,To Travel/Leisure,46
+Higashisuruga,Trip Type,10,Other Private Purpose,6
+Higashisuruga,Trip Type,11,For Sales/Delivery/Restock/Purchase,7
+Higashisuruga,Trip Type,12,For Meeting/Withdraw/Doctor's Visit,8
+Higashisuruga,Trip Type,13,Repair,9
+Higashisuruga,Trip Type,14,Farm Chores,10
+Higashisuruga,Trip Type,15,Other Business Purpose,11
+Higashisuruga,Trip Type,99,Unknown ,99
+Kinki,Occupation,1,Managers,
+Kinki,Occupation,2,Technicians and Professionals,
+Kinki,Occupation,3,Clerical Assistants,
+Kinki,Occupation,4,Sales,
+Kinki,Occupation,5,Services,
+Kinki,Occupation,6,Security Inspectors,
+Kinki,Occupation,7,Argriculture Forestry and Fishery,
+Kinki,Occupation,8,Laborer,
+Kinki,Occupation,9,Transport,
+Kinki,Occupation,10,Architecture and Mining Workers,
+Kinki,Occupation,11,Porter Cleaner and Packer,
+Kinki,Occupation,12,Other Occupation,
+Kinki,Occupation,13,Preschoolers Elementary and Middle School Students,
+Kinki,Occupation,14,High School Students and above,
+Kinki,Occupation,15,Homemakers,
+Kinki,Occupation,16,Inoccupation,
+Kinki,Occupation,21,Employed(Detail Unknown) ,
+Kinki,Occupation,99,Unknown ,
+Kinki,Trip Type,1,To Work,
+Kinki,Trip Type,2,To School,
+Kinki,Trip Type,3,To Home,
+Kinki,Trip Type,4,To Shopping,
+Kinki,Trip Type,5,To Eat/Social/Entertainment,
+Kinki,Trip Type,6,Other Private Purpose (including To Hospital and Pickup),
+Kinki,Trip Type,7,For Sales/Delivery/Restock/Purchase,
+Kinki,Trip Type,8,For Meeting/Withdraw/Doctor's Visit,
+Kinki,Trip Type,9,Repair,
+Kinki,Trip Type,10,Farm Chores,
+Kinki,Trip Type,11,Other Business Purpose,
+Kinki,Trip Type,12,Back to Work/School,
+Kinki,Trip Type,46,Free Purpose,
+Kinki,Trip Type,47,Other Business Purpose,11
+Kinki,Trip Type,99,Unknown ,

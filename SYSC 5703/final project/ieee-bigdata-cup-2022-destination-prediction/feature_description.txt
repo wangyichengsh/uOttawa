@@ -1,0 +1,19 @@
+T000918002
+Number of business establishments (secondary sector of industry) 
+Source: 2016 Economic Census for Business Activity in Japan
+
+T000918006
+Number of employees (secondary sector of industry)
+Source: 2016 Economic Census for Business Activity in Japan
+
+T000918021:
+Number of business establishments (tertiary sector of industry) 
+Source: 2016 Economic Census for Business Activity in Japan
+
+T000918025:
+Number of employees (tertiary sector of industry)
+Source: 2016 Economic Census for Business Activity in Japan
+
+T000847001
+Night Population. 
+Source: 2015 National Population Census in Japan
